@@ -3,12 +3,12 @@ entries:
   obs-helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-24T16:34:18.132888813+05:30"
+    created: "2022-02-24T16:39:57.150014582+05:30"
     description: A Helm chart for Kubernetes
-    digest: aefddfa7e826bcc11e357be0354eb46c6667d60967bb4f4fced31a30661905bb
+    digest: eaea3a937c33458ed6230dcee86d40c7bd262c3296dcd2e95f1a8f0a016894d1
     name: obs-helm-chart
     type: application
     urls:
     - https://supriyashevate.github.io/obs-helm-chart/obs-helm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-24T16:34:18.132081691+05:30"
+generated: "2022-02-24T16:39:57.14782589+05:30"
