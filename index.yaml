@@ -3,9 +3,9 @@ entries:
   flask-helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-24T15:18:08.066696979+05:30"
+    created: "2022-02-24T15:57:40.77020517+05:30"
     description: A Helm chart for Kubernetes
-    digest: 38a56014cbe1596418149ddcfb33e3ab5cbbccf5ec000ca4d2cc6dcd85e75f8a
+    digest: 4dbd55b604ccd0f16a35f17c3cde83d294c754468a4e5d55099c9b30526bdad2
     name: flask-helm-chart
     type: application
     urls:
@@ -14,12 +14,12 @@ entries:
   obs-helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-24T15:18:08.067262331+05:30"
+    created: "2022-02-24T15:57:40.771437471+05:30"
     description: A Helm chart for Kubernetes
-    digest: 55fc4eb0304da30a94d9e989094ba67f3d8a8091b9f90b4df290939a3e2bf13f
+    digest: bfdc475cb1cb74efe766a2b9f55b29a219264bc70bb042e5aeaf80fbc0fcb94e
     name: obs-helm-chart
     type: application
     urls:
     - https://supriyashevate.github.io/test-helm-chart/obs-helm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-24T15:18:08.065805645+05:30"
+generated: "2022-02-24T15:57:40.768820253+05:30"
