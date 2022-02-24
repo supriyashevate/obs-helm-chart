@@ -1,25 +1,14 @@
 apiVersion: v1
 entries:
-  flask-helm-chart:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-02-24T15:57:40.77020517+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 4dbd55b604ccd0f16a35f17c3cde83d294c754468a4e5d55099c9b30526bdad2
-    name: flask-helm-chart
-    type: application
-    urls:
-    - https://supriyashevate.github.io/test-helm-chart/flask-helm-chart-0.1.0.tgz
-    version: 0.1.0
   obs-helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-24T15:57:40.771437471+05:30"
+    created: "2022-02-24T16:34:18.132888813+05:30"
     description: A Helm chart for Kubernetes
-    digest: bfdc475cb1cb74efe766a2b9f55b29a219264bc70bb042e5aeaf80fbc0fcb94e
+    digest: aefddfa7e826bcc11e357be0354eb46c6667d60967bb4f4fced31a30661905bb
     name: obs-helm-chart
     type: application
     urls:
-    - https://supriyashevate.github.io/test-helm-chart/obs-helm-chart-0.1.0.tgz
+    - https://supriyashevate.github.io/obs-helm-chart/obs-helm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-24T15:57:40.768820253+05:30"
+generated: "2022-02-24T16:34:18.132081691+05:30"
